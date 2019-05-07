@@ -236,11 +236,11 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(446, 210);
+            this.button3.Location = new System.Drawing.Point(447, 189);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(146, 56);
+            this.button3.Size = new System.Drawing.Size(146, 78);
             this.button3.TabIndex = 29;
-            this.button3.Text = "Ну ты красава, закрываю и ставлю максимальный балл";
+            this.button3.Text = "Ну ты красава, закрываю приложение и ставлю максимальный балл";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
